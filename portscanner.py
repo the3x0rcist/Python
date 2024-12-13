@@ -5,7 +5,6 @@
 import sys
 import socket
 
-#variables
 
 
 if len(sys.argv) != 3:
